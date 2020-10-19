@@ -4,10 +4,7 @@ public class Hello {
 
 
 
-        System.out.println("sill really awesome hello");//added comment
-=========
-        System.out.println("silly really from github made some changes awesome hello");
- >>>>>>>>>origin/master
+        System.out.println("this is my own hello");//this is my local hello
 
 
     }
